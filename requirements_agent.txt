@@ -1,0 +1,10 @@
+openai
+pandas
+beautifulsoup4
+requests
+lxml
+selenium
+python-dotenv
+tqdm
+xlrd
+openpyxl
